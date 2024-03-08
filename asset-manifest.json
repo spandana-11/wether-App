@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wether-App/static/css/main.d539b85c.css",
+    "main.js": "/wether-App/static/js/main.0427e2a9.js",
+    "static/js/453.bbf7d49f.chunk.js": "/wether-App/static/js/453.bbf7d49f.chunk.js",
+    "index.html": "/wether-App/index.html",
+    "main.d539b85c.css.map": "/wether-App/static/css/main.d539b85c.css.map",
+    "main.0427e2a9.js.map": "/wether-App/static/js/main.0427e2a9.js.map",
+    "453.bbf7d49f.chunk.js.map": "/wether-App/static/js/453.bbf7d49f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d539b85c.css",
+    "static/js/main.0427e2a9.js"
+  ]
+}
