@@ -7,6 +7,7 @@ function Citycomponent() {
   const [error, setError] = useState("");
   console.log(city);
   console.log(result);
+  console.log(error);
   const submitHandler = (e) => {
     e.preventDefault();
     axios
